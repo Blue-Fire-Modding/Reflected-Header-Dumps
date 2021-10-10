@@ -1,0 +1,13 @@
+// UserDefinedStruct PlatformInputInfoStructure.PlatformInputInfoStructure
+// Size: 0x34 (Inherited: 0x00)
+struct FPlatformInputInfoStructure {
+	UMaterialInstance* PC_18_BC65412A450E499B424E6A9E34C79DFA; // 0x00(0x08)
+	UMaterialInstance* Xbox_19_7B0F14E04BD7D095508E8B9DB322D91E; // 0x08(0x08)
+	UMaterialInstance* PS_20_B85DE9F54682A1B86C178582DB20FEB7; // 0x10(0x08)
+	UMaterialInstance* Nintendo_21_CC5BF76843CE517A1C07A1BAC7498811; // 0x18(0x08)
+	UMaterialInstance* Stadia_32_5AE513794232F4AD37606BA5287F96F8; // 0x20(0x08)
+	bool CanBeMapped_24_ACEADDE647B6B170D47DFE9FA4F6F970; // 0x28(0x01)
+	bool NonSquareSize_27_57EC2E2841F8DA954C9EBCA2577590BE; // 0x29(0x01)
+	FVector2D Size_29_CC6A1DE54A72802F4986C09B2E3A9A64; // 0x2c(0x08)
+};
+

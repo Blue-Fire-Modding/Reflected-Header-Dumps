@@ -1,0 +1,45 @@
+// BlueprintGeneratedClass NuosIntro.SequenceDirector_C
+// Size: 0x38 (Inherited: 0x30)
+struct USequenceDirector_C : ULevelSequenceDirector {
+	FPointerToUberGraphFrame UberGraphFrame; // 0x30(0x08)
+
+	void SequenceEvent__ENTRYPOINTSequenceDirector_15(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_14(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_13(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_12(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_11(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_10(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_9(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_8(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_7(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_6(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_5(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_4(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_3(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_2(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void SequenceEvent__ENTRYPOINTSequenceDirector_1(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_4(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_5(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_6(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_7(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_8(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_1(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_2(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_3(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_9(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_10(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_11(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_12(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_13(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_14(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_15(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_16(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_17(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_18(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_19(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_20(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_21(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void Nuos_Intro_Controller_Event_22(ANuos_Intro_Controller_C* Nuos_Intro_Controller);
+	void ExecuteUbergraph_SequenceDirector(int32_t EntryPoint);
+};
+

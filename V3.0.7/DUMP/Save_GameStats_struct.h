@@ -1,0 +1,10 @@
+// UserDefinedStruct Save_GameStats.Save_GameStats
+// Size: 0x21 (Inherited: 0x00)
+struct FSave_GameStats {
+	float TimePlayed_8_C5BEBFCD4803BE8A33ADC7BB805F1659; // 0x00(0x04)
+	TArray<FString> Events_7_9ACF69B4474D76AACA0E349806254782; // 0x08(0x10)
+	float Percentage_18_766629A84559284CFB4C95AC6BA812C4; // 0x18(0x04)
+	int32_t VoidsCleared_17_02733D914ACF38F114FFD99FEB2DEBDD; // 0x1c(0x04)
+	bool BeatGame_20_C4BABD254A2D5AE93BB7AE83D78C3FEC; // 0x20(0x01)
+};
+
